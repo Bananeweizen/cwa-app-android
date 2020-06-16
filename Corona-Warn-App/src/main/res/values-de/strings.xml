@@ -383,9 +383,9 @@
     <!-- XHED: onboarding(test) - two/three line headline under an illustration -->
     <string name="onboarding_test_subtitle">"... teilen Sie es bitte über die Corona-Warn-App mit. Freiwillig und sicher. Für die Gesundheit aller."</string>
     <!-- YTXT: onboarding(test) - explain test -->
-    <string name="onboarding_test_body">"Ihre Mitteilung wird zuverlässig verschlüsselt über einen sicheren Server weiterverarbeitet. Die Personen, deren verschlüsselte Zufallscodes Sie gesammelt haben, erhalten nun eine Warnung und Informationen darüber, wie sie weiter vorgehen sollen."</string>
+    <string name="onboarding_test_body">"Ihre Mitteilung wird zuverlässig verschlüsselt über einen sicheren Server weiterverarbeitet. Die Personen, deren verschlüsselte Zufallscodes Sie gesammelt haben, erhalten dann eine Warnung und Informationen darüber, wie sie weiter vorgehen sollen."</string>
     <!-- XACT: onboarding(test) - illustraction description, header image -->
-    <string name="onboarding_test_illustration_description">"Ein positiver Testbefund wird verschlüsselt ins System übermittelt, das nun andere Nutzerinnen und Nutzer warnt."</string>
+    <string name="onboarding_test_illustration_description">"Ein positiver Testbefund wird verschlüsselt ins System übermittelt, das dann andere Nutzerinnen und Nutzer warnt."</string>
     <!-- XACT: Onboarding (datashare) page title -->
     <string name="onboarding_notifications_accessibility_title">"Einführung Seite 5 von 5: Warnungen erhalten und Risiken erkennen"</string>
     <!-- XHED: onboarding(datashare) - about positive tests -->
